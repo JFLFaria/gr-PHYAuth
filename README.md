@@ -8,7 +8,7 @@ GNU Radio 3.8 Module developed for the thesis SDR for physical layer authenticat
 
 ## How to install
 
-'''
+```
 git clone https://github.com/JFLFaria/gr-PHYAuth.git
 cd gr-PHYAuth
 mkdir build
@@ -17,4 +17,4 @@ cmake ..
 make
 sudo make install
 sudo ldconfig
-'''
+```
