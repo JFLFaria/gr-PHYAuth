@@ -1,6 +1,6 @@
 # gr-PHYAuth
 
-GNU Radio 3.8 Module developed for the thesis SDR FOR PHYSICAL LAYER AUTHENTICATION
+GNU Radio 3.8 Module developed for the thesis SDR for physical layer authentication
 
 ## Dependencies
 
