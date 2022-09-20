@@ -4,7 +4,7 @@ GNU Radio 3.8 Module developed for the thesis SDR FOR PHYSICAL LAYER AUTHENTICAT
 
 ## Dependencies
 
-- GNU Radio 3.8 [1](https://github.com/gnuradio/gnuradio/tree/maint-3.8)
+- [GNU Radio 3.8](https://github.com/gnuradio/gnuradio/tree/maint-3.8)
 
 ## How to install
 
